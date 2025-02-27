@@ -1,0 +1,8 @@
+{
+  "url": "http://127.0.0.1:4723/wd/hub",
+  "platformName": "iOS",
+  "platformVersion": "15.3.1",
+  "deviceName": "iPhone",
+  "udid": "00008101-001E71981A68001E",
+  "app": "/Users/tester/Library/Developer/Xcode/DerivedData/WebDriverAgent-aghlrsejdreqngftgvcqwnjgrbou/Build/Products/Debug-iphoneos/integrationApp.app"
+}

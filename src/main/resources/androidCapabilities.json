@@ -1,0 +1,10 @@
+{
+  "url": "http://127.0.0.1:4723/wd/hub",
+  "platformName": "Android",
+  "platformVersion": "13.0",
+  "deviceName": "emulator-5554",
+  "appPackage": "io.appium.android.apis",
+  "appActivity": "io.appium.android.apis.ApiDemos",
+  "skipUnlock": "true",
+  "noReset": "true"
+}
